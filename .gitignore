@@ -1,0 +1,5 @@
+aws-pipeline-key*
+.terraform*
+*.out
+*.tfvars
+*.tfstate
